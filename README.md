@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python,tenserflow**
 
-- 📝 I regularly write articles on [https://just-blog-of-python.blogspot.com/](my blog)
+- 📝 I regularly write articles on [my blog](https://just-blog-of-python.blogspot.com/)
 
 - 📫 How to reach me **viaus@protonmail.com**
 
